@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SmartNotes</string>
+    <string name="create_new_note">Tap the <font color='#db2b42'>MICROPHONE</font> icon to start recording your note.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
