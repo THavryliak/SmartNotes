@@ -5,25 +5,25 @@
 
 Technology stack
 -----------------------------
-  MVVM
+   - MVVM
   
-  LiveData
+   - LiveData
  
-  RecyclerView
+   - RecyclerView
   
-  ListAdapter
+   - ListAdapter
   
-  Repository 
+   - Repository 
   
-  Room
+   - Room
   
-  Coroutines
+   - Coroutines
   
-  SpeechRecognizer
+   - SpeechRecognizer
   
-  Navigation component
+   - Navigation component
   
-  itemTouchHelper
+   - itemTouchHelper
   
   In Future
   -----------------------------
